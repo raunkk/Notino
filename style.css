@@ -1,0 +1,110 @@
+*{font-family: Kodchasan; font-weight: 600;}
+
+.sec-1{
+    background-color: black;
+}
+
+.us{
+    width: 70%;
+    padding: 2% 0 3% 5%;
+}
+.main{
+    color: white;
+    padding-top: 15%;
+    padding-left: 4%;
+    line-height: 25px;
+}
+.main .play{
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 30px;
+}
+.main p{
+    color: #44FADD;
+}
+.image img{
+    width: 45%;
+    padding-top: 5%;
+    padding-bottom: 4%;
+
+
+}
+.apple{
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 150px
+}
+
+.sec-2{
+    padding: 100px 0 0 0;
+}
+
+.features{
+    padding-bottom: 5%;
+}
+
+.features h1{
+    font-size: x-large;
+}
+
+.features p{
+    font-size:small;
+}
+
+@media (max-width:900px){
+    .main{
+        text-align: center;
+    }
+    .features{
+        text-align: center;
+    }
+    .sec-2{
+        padding: 5% 0 0 0;
+    }
+    .mob-slant{
+        padding-top: 20px;
+    }
+    .min-text{
+        text-align: center;
+    }
+}
+
+.sec-3{
+    background-color: black;
+    margin: 0 0;
+    color: white;
+    padding: 100px 0 100px 0;
+    text-align: center;
+}
+.car-p{
+    margin: 0 0;
+    color: #44FADD;
+    font-size: small;
+}
+.car-h1{
+    font-size: xx-large;
+}
+.car{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.mob-slant{
+    width: 80%;
+    padding-top: 100px;
+    
+}
+.easy-to{text-align: center;}
+
+.min-text{
+    padding-top: 18%;
+}
+.min-text p{
+    color: black;
+}
