@@ -1,5 +1,5 @@
 # Notino
-The Notino GitHub repository is a single-page website project created by a MERN stack development course student. The website is built using HTML, CSS, and Bootstrap, with a focus on design and responsiveness.
+The Notino GitHub repository is a single-page website project is the first project of my MERN stack development course. The website is built using HTML, CSS, and Bootstrap, with a focus on design and responsiveness.
 
 The repository provides a comprehensive codebase for the "Notino" website, including all HTML, CSS files. The code is well-organized and easy to understand, making it a great resource for beginners looking to learn web development.
 
